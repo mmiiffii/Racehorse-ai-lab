@@ -1,4 +1,0 @@
-model_name: "gpt-4.1-mini"
-temperature: 0.2
-max_tokens: 600
-prompt_file: "config/prompt.txt"
